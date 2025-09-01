@@ -16,7 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/ChoeHwanseong?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/ChoeHwanseong?pet-id=750322665069062154" width="1000" height="120"/>
+</a>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/ChoeHwanseong?pet-id=750322665069062155" width="1000" height="120"/>
+</a>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/ChoeHwanseong?pet-id=750322665069062156" width="1000" height="120"/>
 </a>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/ChoeHwanseong"/>
